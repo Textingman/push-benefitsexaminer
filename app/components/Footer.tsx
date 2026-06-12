@@ -74,7 +74,10 @@ export default function Footer() {
               support@benefitsexaminer.com
             </p>
             <p className="mt-2" style={{ color: '#DDD6FE' }}>
-              United States
+              6106 Cherrylawn Cir, Austin, TX 78723
+            </p>
+            <p className="mt-2" style={{ color: '#DDD6FE' }}>
+              (512) 998-5886
             </p>
           </div>
         </div>
